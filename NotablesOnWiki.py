@@ -2,8 +2,7 @@
 """
 Created on Fri Feb 11 17:04:50 2022
 
-@author: Richard Zhao FLora Fung
-Title: Data Science Homework 2 Wiki Search
+@author: Richard Zhao
 Summary: Get data, YOB and YOD of person from wiki and seed twice
 """
 
